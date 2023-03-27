@@ -8,5 +8,6 @@ public class TestClass {
     public static void main(String[] args) {
         System.out.println("develop");
         System.out.println("feature01");
+        System.out.println("feature02");
     }
 }
